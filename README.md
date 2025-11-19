@@ -24,6 +24,10 @@ Some of the example scripts included in this repository are:
 - **Factorial_using_recursion.py**: Calculates the factorial of a number using recursion.
 - **Dot_product.py**: Computes the dot product of two vectors.
 - **Other scripts**: Cover basic Python exercises for practice and learning.
+### 🆕 New Scripts Added
+
+- `Prime_number_check.py`: Checks whether a given number is prime or not.
+- `Find_max_min_in_list.py`: Finds the maximum and minimum numbers in a user-provided list.
 
 ## 🚀 Getting Started
 
